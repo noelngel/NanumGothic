@@ -14,8 +14,8 @@
     src: url('../fonts/NanumGothic/NanumGothic-Light.eot?#iefix') format('embedded-opentype'),
          url('../fonts/NanumGothic/NanumGothic-Light.woff') format('woff'),
          url('../fonts/NanumGothic/NanumGothic-Light.ttf') format('truetype');
-    font-style: normal;
     font-weight: 300;
+    font-style: normal;
 }
 @font-face {
     font-family: 'Nanum Gothic';
